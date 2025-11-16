@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Cyber Security (Red Team)<br>🤝 I’m looking to collaborate and learn more about Cyber Security, especially in Red Team operations<br>💬 Feel free to ask me about Penetration Testing or anything related to Cyber Security
+🌱 I’m currently learning Cyber Security (Red Team)<br>🤝 I’m looking to collaborate and learn more about Cyber Security, especially in Red Team operations<br>💬 Feel free to ask me anything
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:study.mikhael@gmail.com) 
