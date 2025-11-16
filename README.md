@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Cyber Security<br>💬 Ask me about Cyber<br>🤝 I’m looking for help with Cyber Security
+🌱 I’m currently learning Cyber Security (Red Team)<br>💬 Ask me about Cyber Security<br>🤝 I’m looking for help with Cyber Security
 
 
 ## 🌐 Socials:
